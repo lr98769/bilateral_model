@@ -1,0 +1,6 @@
+testing
+*.pyc
+scripts_to_run
+checkpoints
+script_to_run/*
+old_code/*
